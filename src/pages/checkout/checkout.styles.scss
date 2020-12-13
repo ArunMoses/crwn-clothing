@@ -28,4 +28,20 @@
     margin-left: auto;
     font-size: 36px;
   }
+
+  button {
+    margin-left: auto;
+    margin-top: 50px;
+  }
+
+  .test-warning {
+    text-align: left;
+    margin-top: 40px;
+    font-size: 24px;
+
+    .test-warning-header {
+      color: rgb(207, 35, 35);
+      font-weight: bold;
+    }
+  }
 }
